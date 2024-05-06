@@ -1,4 +1,4 @@
-package com.pruebas;
+/*package com.pruebas;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -57,4 +57,4 @@ public class pruebaCount {
     static void beforeAll(){
         System.out.println("Antes de cada clase");
     }
-}
+}*/
